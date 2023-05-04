@@ -1,0 +1,13 @@
+music_file_d
+
+[OBJECT:MUSIC_FILE]
+
+[MUSIC_FILE:SONG_GAME_CLASSICER]
+    [FILE:song_game.ogg]
+    [TITLE:song_game]
+    [AUTHOR:Tarn Adams]
+
+[MUSIC_FILE:SONG_TITLE_CLASSICER]
+    [FILE:song_title.ogg]
+    [TITLE:song_title]
+    [AUTHOR:Tarn Adams]
